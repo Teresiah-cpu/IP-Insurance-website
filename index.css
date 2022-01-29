@@ -11,11 +11,11 @@
      background-repeat: no-repeat;
      background-size: cover;
      color: light rgb(53, 52, 52);
-     opacity: 0.95;
+     background opacity: 0.9;
      
     
  }
- .Navbar{
+ .navbar{
      display: flex;
      margin-bottom: 100px;
      margin-left: 300px;
@@ -25,14 +25,16 @@
      color: green;
      
  }
- #ulnavlinks{
+ .ulnavlinks{
      list-style: none;
  }
  ul li{
      display: inline;
  }
- #button1{
-     background-color: greenyellow;
-     
+ ul li a{
+     color: whitesmoke;
+    };
  }
+
+
     
