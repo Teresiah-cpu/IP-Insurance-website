@@ -13,18 +13,22 @@
      color: light rgb(53, 52, 52);
      background opacity: 0.9;
      
+     
     
  }
  .navbar{
      display: flex;
      justify-content: space-between;
      align-items: center;
-     padding: 30px 10%;
+     padding-bottom: 150px;
+     
+     
  }
  .logoname{
     
      color: whitesmoke;
      cursor: pointer;
+     
      
  }
  ul{
@@ -47,6 +51,56 @@
     width: 150px;
     height: 30px;
     border: none;
+}
+.section1 h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-top: 40px;
+
+}
+#firstp{
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 40px;
+
+}
+.btns{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 40px;
+    
+   
+}
+
+.section1btn button{
+    color: white;
+    background-color: rgb(6, 131, 180);
+    width: 150px;
+    height: 35px;
+    border: none;
+    border-radius: 30px;
+    
+
+}
+.section1btn2 button{
+    color: white;
+    background-color: rgb(117, 115, 115);
+    width: 150px;
+    height: 35px;
+    border: none;
+    margin-left: 30px;
+    border-radius: 30px;
+    
+    
+    
+
+
 }
  
 
