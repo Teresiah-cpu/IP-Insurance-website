@@ -223,6 +223,22 @@
     justify-content: center;
 
 }
+.user3{
+    align-items: center;
+    padding: 30px;
+    width: 220px;
+    height: 290px;
+    background-color: blue;
+    justify-content: center;
+
+}
+.vectorstars3{
+    display: flex;
+    padding-top: 40px;
+    align-items:center ;
+    justify-content: center;
+
+}
  
 
 
