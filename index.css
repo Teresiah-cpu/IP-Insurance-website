@@ -254,8 +254,12 @@
 .vec{
 
 }
- 
+.Subscribe{
 
+}
+.container3{
+    border: 1px solid green;
+    background-color: rgb(192, 106, 226);
+    display: flex;
 
-
-    
+}
