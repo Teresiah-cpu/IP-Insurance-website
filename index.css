@@ -9,9 +9,10 @@
      background-image: url(../Images/cover.3.png);
      padding: 10em;
      background-repeat: no-repeat;
-     background-size: cover;
+     background-size: 110%;
      color: light rgb(53, 52, 52);
      background opacity: 0.9;
+     background color: #4D5154;
      
      
     
@@ -47,7 +48,7 @@
     }
 .navbar button{
     color: white;
-    background-color:rgb(6, 131, 180);
+    background-color:#21A6F0;
     width: 150px;
     height: 30px;
     border: none;
@@ -80,7 +81,7 @@
 
 .section1btn button{
     color: white;
-    background-color: rgb(6, 131, 180);
+    background-color: #21A6F0;
     width: 150px;
     height: 35px;
     border: none;
@@ -90,18 +91,84 @@
 }
 .section1btn2 button{
     color: white;
-    background-color: rgb(117, 115, 115);
+    background-color:#4D5154;
     width: 150px;
     height: 35px;
     border: none;
     margin-left: 30px;
     border-radius: 30px;
+}
+.container{
     
+    display: flex;
+    justify-content: center;
     
+    padding-top: 40px;
     
+
+}
+.box1{
+    align-items: center;
+    padding: 10px;
+    width: 230px;
+    height: 150px;
+    background-color: whitesmoke;
+    
+}
+.box2{
+    align-items: center;
+    padding: 10px;
+    width: 230px;
+    height: 150px;
+    margin-left: 20px;
+    background-color: whitesmoke;
 
 
 }
+.box3{
+    align-items: center;
+    padding:10px;
+    width: 230px;
+    height: 150px;
+    background-color:#21A6F0;
+    margin-left: 30px;
+}
+.container img{
+    text-align: center;
+}
+.container2{
+     display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+.box11{
+    align-items: center;
+    padding: 10px;
+    width: 230px;
+    height: 150px;
+    background-color: white;
+    
+}
+.box22{
+    align-items: center;
+    padding: 10px;
+    width: 230px;
+    height: 150px;
+    margin-left: 40px;
+    background-color: white;
+
+
+}
+.box33{
+    align-items: center;
+    padding:10px;
+    width: 230px;
+    height: 150px;
+    background-color:white;
+    margin-left: 40px;
+    padding-top: 40px;
+}
+
  
 
 
