@@ -245,6 +245,15 @@
     justify-content: center;
 
 }
+.vectors{
+    padding-top: 120px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.vec{
+
+}
  
 
 
