@@ -207,6 +207,22 @@
    
     
 }
+.user2{
+    align-items: center;
+    padding: 30px;
+    width: 220px;
+    height: 290px;
+    background-color: green;
+    justify-content: center;
+
+}
+.vectorstars2{
+    display: flex;
+    padding-top: 40px;
+    align-items:center ;
+    justify-content: center;
+
+}
  
 
 
