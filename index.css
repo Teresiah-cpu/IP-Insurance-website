@@ -98,12 +98,15 @@
     margin-left: 30px;
     border-radius: 30px;
 }
+.section2{
+    background-color: #FFFFFF;
+}
 .container{
     
     display: flex;
     justify-content: center;
     
-    padding-top: 40px;
+    padding-top: 30px;
     
 
 }
@@ -122,6 +125,7 @@
     height: 150px;
     margin-left: 20px;
     background-color: whitesmoke;
+    
 
 
 }
@@ -169,7 +173,40 @@
     margin-left: 40px;
     padding-top: 40px;
 }
+.section3{
+    background-color: #FAFAFA;
+    
+}
+.industry{
+    padding-top: 40px;
+    text-align: center;
+}
+.industry h2{
+    font: bold;
+    font-family: sans-serif;
+}
+.users{
+    padding-top: 40px;
 
+}
+.user1{
+    align-items: center;
+    padding: 30px;
+    width: 220px;
+    height: 290px;
+    background-color: red;
+    justify-content: center;
+    
+
+}
+.vectorstars{
+    display: flex;
+    padding-top: 40px;
+    align-items:center ;
+    justify-content: center;
+   
+    
+}
  
 
 
