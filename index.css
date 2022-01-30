@@ -188,6 +188,7 @@
 .users{
     padding-top: 40px;
     display: flex;
+    text-align-last: center;
 
 }
 .user1{
