@@ -251,19 +251,39 @@
     justify-content: space-between;
 
 }
-.vec{
 
-}
-.Subscribe{
 
-}
-.container3{
-    border: 1px solid green;
-    background-color: blueviolet;
+
+.subscribe{
     display: flex;
+    margin: 100px;
+    margin-left: 20%;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    height: 100px;
+    width: 1000px;
+    align-items: center;
+    background: linear-gradient(90deg,#203F88 20%,violet);
+}
+.subscribe p{
+    color: white;
+    margin-left: 10%;
+    font-size: larger;
+    font-size: 1.5em;
 
 }
-.emailsub{
-    margin-left: 350px;
-    padding-top: 20px;
+#email{
+    height: 1.3em;
+    width: 10em;
+    margin-left: 100px;
+    border-radius: 5px;
+
+}
+#subs{
+    height: 1.3em;
+    width: 3em;
+    color: white;
+    background-color: whitesmoke;
+    margin-left: 10px;
+    border-radius:5px;
 }
