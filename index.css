@@ -257,7 +257,8 @@
 .subscribe{
     display: flex;
     margin: 100px;
-    margin-left: 20%;
+    margin-left: 0%;
+    margin-right: 0%;
     justify-content: space-evenly;
     border: 1px solid black;
     height: 100px;
@@ -270,20 +271,24 @@
     margin-left: 10%;
     font-size: larger;
     font-size: 1.5em;
+    
 
 }
 #email{
-    height: 1.3em;
-    width: 10em;
+    height: 1.3cm;
+    width: 10cm;
     margin-left: 100px;
     border-radius: 5px;
+    color: black;
+    background-color: whitesmoke;
 
 }
 #subs{
-    height: 1.3em;
-    width: 3em;
+    height: 1.3cm;
+    width: 3cm;
     color: white;
-    background-color: whitesmoke;
-    margin-left: 10px;
+    background-color: #21A6F0;
+    margin-left:0.5px;
     border-radius:5px;
+    padding-left: 0px;
 }
