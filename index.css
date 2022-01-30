@@ -259,7 +259,11 @@
 }
 .container3{
     border: 1px solid green;
-    background-color: rgb(192, 106, 226);
+    background-color: blueviolet;
     display: flex;
 
+}
+.emailsub{
+    margin-left: 350px;
+    padding-top: 20px;
 }
