@@ -264,7 +264,7 @@
        height: 100px;
        width: 1000px;
        align-items: center;
-       background: linear-gradient(90deg,#203F88 20%,violet);
+       background: linear-gradient(90deg,#454D89 20%,#D5508A);
    }
    .subscribe p{
        color: white;
@@ -470,8 +470,14 @@
 }
 
 
+/*
+@media o(max-width:480px){*/
 
-@media only.screen and(max-width:480px){
+  .navbar{
+      display: none;
+      align-items: flex-start;
+  }   
+
 
 
 
