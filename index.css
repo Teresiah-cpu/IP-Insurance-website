@@ -378,19 +378,19 @@
 .appointment{
       display: flex;  
       align-items: center;
+      border: none;
+      margin-left: 50px;
+      margin-right:50px; 
+      margin-top: -150px;
+      background-color: white;
       
      
       
 }
 
-.cont4{
-    width: 700px;
-    height:400px;
-    border: 1px solid red;
-}
+
 .placeholder{
-    width: 300px;
-    height:400px
+    margin-left: 5px;
 }
 .placeholder h3{
     margin-left: 25%;
@@ -398,7 +398,7 @@
 #name{
     width: 500px;
     height: 40px;
-    margin-left: 70px;
+    margin-left: 40px;
     border-radius: 5px;
     border: 1px solid gainsboro;
     font-weight: lighter;
@@ -407,14 +407,14 @@
 #email2{
     width: 500px;
     height: 40px;
-    margin-left: 70px;
+    margin-left: 40px;
     border: 1px solid gainsboro;
     background-color: #F9F9F9;
 }
 #department{
     width: 500px;
     height: 40px;
-    margin-left: 70px;
+    margin-left: 40px;
     border-radius: 5px;
     border: 1px solid gainsboro;
     background-color: #F9F9F9;
@@ -422,7 +422,7 @@
 #time{
     width: 500px;
     height: 40px;
-    margin-left: 70px;
+    margin-left: 40px;
     border: 1px solid gainsboro;
     background-color: #F9F9F9;
 }
@@ -432,5 +432,26 @@
     color: white;
     background-color:#21A6F0;
     border-radius: 5px;
-    margin-left: 70px;
+    margin-left: 40px;
+}
+.contact{
+      display: flex;
+      padding-top: 150px;
+      justify-content: left end;
+      justify-content: space-between;
+      background-color: #FAFAFA;
+}
+.p{
+    font-family: sans-serif;
+}
+.contactusbtn{
+    background-color:#21A6F0 ;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    width: 100px;
+    height: 30px;
+    padding-top: 5px;
+    padding-left: 5px;
+    
 }
