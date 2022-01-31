@@ -477,6 +477,10 @@
       display: none;
       align-items: flex-start;
   }   
+  .navbar ul{
+      flex-direction: column;
+      width: 100%;
+  }
 
 
 
