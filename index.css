@@ -377,27 +377,54 @@
 }
 .appointment{
       display: flex;  
+      align-items: center;
+      
+     
+      
 }
 
-/*.placeholder{
-        width: 300px;
-        height:350px
-}*/
+.cont4{
+    width: 700px;
+    height:400px;
+    border: 1px solid red;
+}
+.placeholder{
+    width: 300px;
+    height:400px
+}
+.placeholder h3{
+    margin-left: 25%;
+}
 #name{
     width: 500px;
     height: 40px;
+    margin-left: 70px;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+    font-weight: lighter;
+    background-color: #F9F9F9;
 }
 #email2{
     width: 500px;
     height: 40px;
+    margin-left: 70px;
+    border: 1px solid gainsboro;
+    background-color: #F9F9F9;
 }
 #department{
     width: 500px;
     height: 40px;
+    margin-left: 70px;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+    background-color: #F9F9F9;
 }
 #time{
     width: 500px;
     height: 40px;
+    margin-left: 70px;
+    border: 1px solid gainsboro;
+    background-color: #F9F9F9;
 }
 #bookbtn{
     width: 500px;
@@ -405,4 +432,5 @@
     color: white;
     background-color:#21A6F0;
     border-radius: 5px;
+    margin-left: 70px;
 }
