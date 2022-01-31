@@ -481,6 +481,9 @@
       flex-direction: column;
       width: 100%;
   }
+  .navbar li{
+      text-align: center;
+  }
 
 
 
