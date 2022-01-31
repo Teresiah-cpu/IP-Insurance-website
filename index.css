@@ -484,6 +484,9 @@
   .navbar li{
       text-align: center;
   }
+  .navbar li a{
+      padding: 5rem 1rem;
+  }
 
 
 
