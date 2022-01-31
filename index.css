@@ -12,7 +12,8 @@
      background-size: 110%;
      color: light rgb(53, 52, 52);
      background opacity: 0.9;
-     background color: #4D5154;
+    
+   
      
      
     
@@ -308,7 +309,7 @@
     align-items: center;
     padding: 30px;
     width: 350px;
-    height: 440px;
+    height: 520px;
     background-color: #FFFFFF;
     justify-content: center;
     border: 1px solid  rgb(95, 188, 224);
@@ -330,4 +331,47 @@
     height: 30px;
     width: 205px;
     color: white;
+}
+.advert{
+    margin: 80px;
+}
+.standard{
+    align-items: center;
+    margin-top: -50px;
+    height: 570px;
+    width: 400px;
+    background-color: #FFFFFF;
+    justify-content: center;
+    border: 1px solid  rgb(95, 188, 224);
+    border-radius: 10px;
+    background-color: #252B42;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding-top: 40px;
+}
+
+.premium{
+    align-items: center;
+    padding: 30px;
+    width: 350px;
+    height: 520px;
+    background-color: #FFFFFF;
+    justify-content: center;
+    border: 1px solid  rgb(95, 188, 224);
+    border-radius: 10px;
+    
+}
+.section4{
+  
+    background-color: #252B42;
+    background-image: url(../Images/branches.png);
+    background-size: 40%;
+    background-position: right;
+    padding: 10em;
+    background-repeat: no-repeat;
+    color: light rgb(53, 52, 52);
+    background opacity: 1;
+    
+
 }
